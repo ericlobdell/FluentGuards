@@ -2,7 +2,7 @@
 
 namespace FluentGuards
 {
-    public static class Guards
+    public class Guards
     {
         private static GuardInvoker invoker = new GuardInvoker();
 
